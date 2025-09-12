@@ -1,0 +1,10 @@
+{
+  "siteName": "PurpleElegance",
+  "tagline": "Crafting modern, clean, and responsive web experiences with style.",
+  "nav": [
+    { "title": "Home", "url": "index.html" },
+    { "title": "About", "url": "about.html" },
+    { "title": "Contact", "url": "contact.html" }
+  ],
+  "footer": "© 2025 PurpleElegance. All rights reserved."
+}
