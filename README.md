@@ -82,6 +82,6 @@ Design: Minimal, modern, elegant
 
 If you’d like to connect:
 
-Email: example@email.com
+Email: harishashankapalli@gmail.com
 
-Phone: +91 98765 43210
+Phone: +91 8328419737
